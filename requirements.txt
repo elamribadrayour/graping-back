@@ -1,0 +1,9 @@
+# Matrix processing
+numpy
+pydantic
+
+# Machine Learning
+
+# API
+fastapi
+uvicorn[standard]
