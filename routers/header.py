@@ -1,7 +1,6 @@
 import json
 
 from fastapi import APIRouter
-from fastapi import File, UploadFile
 from fastapi.responses import FileResponse
 
 router = APIRouter()

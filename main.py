@@ -1,10 +1,12 @@
 
-from routers import header
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
+from routers import header, gallery
+
 app = FastAPI(debug=True)
 app.include_router(header.router)
+app.include_router(gallery.router)
 
 origins = ["*"]
 
