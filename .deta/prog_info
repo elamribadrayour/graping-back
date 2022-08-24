@@ -1,1 +1,1 @@
-{"id":"00199f04-c838-45c3-b3af-9904c884e73d","space":29079,"runtime":"python3.9","name":"backend","path":"3qd6ib","project":"a0x5jv0a","account":"144798365827","region":"eu-central-1","deps":null,"envs":null,"public":true,"log_level":"off","cron":""}
+{"id":"00199f04-c838-45c3-b3af-9904c884e73d","space":29079,"runtime":"python3.9","name":"backend","path":"3qd6ib","project":"a0x5jv0a","account":"144798365827","region":"eu-central-1","deps":["numpy","pydantic","fastapi","uvicorn[standard]"],"envs":null,"public":true,"log_level":"off","cron":""}
