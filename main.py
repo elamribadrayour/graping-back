@@ -2,11 +2,16 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-from routers import header, gallery
+import duckdb
+
+from routers import header, gallery, ml
 
 app = FastAPI(debug=True)
+app.include_router(ml.router)
 app.include_router(header.router)
 app.include_router(gallery.router)
+
+con = duckdb.connect()
 
 origins = ["*"]
 

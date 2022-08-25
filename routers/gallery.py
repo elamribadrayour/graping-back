@@ -1,6 +1,5 @@
 import os
 import base64
-from unittest import result
 
 from fastapi import APIRouter
 from fastapi.responses import FileResponse

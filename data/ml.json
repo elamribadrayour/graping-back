@@ -1,0 +1,18 @@
+{
+    "bert_keywords_extractor": {
+        "name": "BERT Keywork Extractor",
+        "url": "https://streamlit-example-app-bert-keyword-extractor-app-8o7ur6.streamlitapp.com/?embedded=true"
+    },
+    "nyc_uber_ridesharing_data": {
+        "name": "NYC Uber Ridesharing Data",
+        "url": "https://streamlit-demo-uber-nyc-pickups-streamlit-app-456wus.streamlitapp.com/?embedded=true"
+    },
+    "national_library_of_scotland_xyz_layers": {
+        "name": "National Library of Scotland XYZ Layers",
+        "url": "https://xyz.streamlitapp.com/?embedded=true"
+    },
+    "galaxy_decals": {
+        "name": "Galaxy DECALs",
+        "url": "https://mwalmsley-galaxy-poster-gz-decals-mike-walmsley-3pax35.streamlitapp.com/?embedded=true"
+    }
+}

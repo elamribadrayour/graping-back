@@ -1,1 +1,0 @@
-url: https://3qd6ib.deta.dev

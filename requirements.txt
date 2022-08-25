@@ -7,3 +7,8 @@ pydantic
 # API
 fastapi
 uvicorn[standard]
+
+# Database
+orjson
+duckdb
+aimrocks
